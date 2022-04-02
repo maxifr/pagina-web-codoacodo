@@ -1,0 +1,13 @@
+body {
+    background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/0bd3a69d-6790-4edc-9818-1c8c558946c2/3de71fad-e2e5-4603-afeb-46db4b1e3152/AR-es-20220329-popsignuptwoweeks-perspective_alpha_website_large.jpg');
+    
+    }
+    
+    div {
+        width: 1000px;
+        margin: 0;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+    }
+    
